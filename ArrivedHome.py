@@ -2,7 +2,7 @@ import os
 import subprocess  # spawn new subprocesses
 import sys
 
-from decouple import config
+from decouple import config # reads from env file
 
 
 """
