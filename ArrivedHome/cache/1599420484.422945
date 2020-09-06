@@ -1,0 +1,15 @@
+Interface: en0, type: EN10MB, MAC: f4:5c:89:99:a2:d7, IPv4: 192.168.86.43
+Starting arp-scan 1.9.7 with 256 hosts (https://github.com/royhills/arp-scan)
+192.168.86.22	94:0c:98:00:71:c2	(Unknown)
+192.168.86.1	3c:28:6d:61:3e:f0	Google, Inc.
+192.168.86.23	3c:28:6d:61:36:0b	Google, Inc.
+192.168.86.25	3c:28:6d:61:69:17	Google, Inc.
+192.168.86.28	00:d0:2d:e5:84:97	Resideo
+192.168.86.37	dc:a9:04:80:02:28	Apple, Inc.
+192.168.86.32	84:ad:8d:ad:b8:9c	Apple, Inc.
+192.168.86.250	68:ff:7b:e8:c1:72	TP-LINK TECHNOLOGIES CO.,LTD.
+192.168.86.40	e4:9a:dc:19:b2:aa	Apple, Inc.
+192.168.86.182	44:b2:95:d5:c7:d0	Sichuan AI-Link Technology Co., Ltd.
+
+513 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9.7: 256 hosts scanned in 1.846 seconds (138.68 hosts/sec). 10 responded
